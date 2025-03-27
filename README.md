@@ -1,5 +1,5 @@
 
-#Automated Log Rotation & Archiving 
+# Automated Log Rotation & Archiving 
 
 ## Purpose  
 Prevent logs from consuming too much disk space by compressing old logs and deleting them after 7 days.
